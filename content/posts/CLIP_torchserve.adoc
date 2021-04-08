@@ -1,0 +1,15 @@
+--- 
+title: "CLIP_torchserve" 
+date: 2021-04-08T10:19:36+03:00 //
+draft: true
+
+categories:
+    - "category1"
+tags:
+    - "tag1"
+    - "tag2"
+---
+
+= CLIP_torchserve
+Just some text here 
+2021-04-08 
